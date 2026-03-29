@@ -1,0 +1,5 @@
+{
+  "name": "SIU Assistant",
+  "description": "A one-line response chatbot for Symbiosis International University (SIU) students.",
+  "requestFramePermissions": []
+}
